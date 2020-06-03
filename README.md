@@ -1,24 +1,22 @@
-# quevicho
+# Super Simple Vue Restaurant Template 
 
-## Project setup
+## Project Setup
+1. Clone the repository.
 ```
-yarn install
+git clone https://github.com/allynsweet/vue-restaurant
 ```
-
-### Compiles and hot-reloads for development
+2. Navigate into /src/common/brand.config.js.
+3. Follow the instructions and enter in information relevant for the restaurant. 
+4. Add the restaurant's menu PDF to /public/ folder, be sure to add the correct file name to brand.config.js's MENU_PATH const.
+5. Add the images and logo to /src/assets/, add the correct file names to brand.config.js's FOOD_IMGS and BRAND_LOGO const, respectively.
+6. Run
 ```
 yarn serve
 ```
-
-### Compiles and minifies for production
+to check how it looks.
+7. Run
 ```
 yarn build
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+to build it for production.
+#### That's it! 
