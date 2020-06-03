@@ -1,5 +1,7 @@
 # Super Simple Vue Restaurant Template 
 
+### A no-coding-required template for simple restaurant websites made with Vue. 
+
 ![Site Demo](/screenshot.png)
 
 ## Project Setup
