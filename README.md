@@ -14,6 +14,7 @@ git clone https://github.com/allynsweet/vue-restaurant
 yarn serve
 ```
 to check how it looks.
+
 7. Run
 ```
 yarn build
