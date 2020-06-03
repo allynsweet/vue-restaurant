@@ -1,5 +1,7 @@
 # Super Simple Vue Restaurant Template 
 
+![Site Demo](/screenshot.png)
+
 ## Project Setup
 1. Clone the repository.
 ```
